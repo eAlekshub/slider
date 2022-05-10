@@ -1,1 +1,1 @@
-https://ealekshub.github.io/portfolio2/
+https://ealekshub.github.io/slider/
